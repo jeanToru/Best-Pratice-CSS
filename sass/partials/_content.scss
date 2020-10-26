@@ -1,0 +1,36 @@
+@import 'global';
+
+#content {
+    width: 80%;
+    top: 25%;
+    left: 130%;
+    position: absolute;
+    color: $colorLetra;
+}
+
+.banner {
+    width: 50%;
+    float: left;
+}
+
+.banner h1 {
+    font-size: 43px;
+    position: relative;
+    margin-left: 40px;
+    width: 640px;
+}
+
+.banner p {
+    font-size: 15px;
+    width: 650px;
+    margin: 30px 0 30px 40px;
+    line-height: 25px;
+    color: #919191; 
+}
+
+.banner small {
+    margin-left: 40px;
+    font-size: 12px;
+    color: #19dafa;
+    letter-spacing: 3px;
+}
