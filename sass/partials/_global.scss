@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+$letra: "Roboto", sans-serif;
+$color: #42455a;
+$colorLetra: #fff;
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: $color;
+    font-family: $letra;
+}
+
+.wrapper {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
